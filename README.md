@@ -43,7 +43,7 @@ Install without overwriting your own existing neovim configuration
 - **Clone the repository**
 
 ```
-git clone https://github.com/kabinspace/AstroNvim_user ~/.config/astronvim
+git clone https://github.com/suphonchaip/astro_nvim_config ~/.config/astronvim
 ```
 
 - **Start the editor with `NVIM_APPNAME` environment variable set to `astronvim`**
